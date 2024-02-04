@@ -1,8 +1,5 @@
 # Pruebas técnicas ⚛️
 
-Curso para aprender **React** basado en proyectos.
-**[Todos los miércoles a las 18PM 🇪🇸 en Twitch](https://twitch.tv/midudev)**
-
 ## ⌨️ Lista de proyectos
 
 | Número | Proyecto   | Código             | Web                                                 |
